@@ -27,7 +27,6 @@ INC DPTR
 MOV A,B
 MOVX @DPTR,A
 END
-
 ```
 
 ## OUTPUT
@@ -71,7 +70,6 @@ MOVX @DPTR,A
 END
 
 ```
-
 
 ## OUTPUT
 <img width="414" height="404" alt="image" src="https://github.com/user-attachments/assets/912335bd-fd13-418f-83ef-62d1e4f6bfb7" />
