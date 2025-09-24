@@ -29,8 +29,8 @@ END
 ```
 
 ## OUTPUT
-<img width="566" height="495" alt="image" src="https://github.com/user-attachments/assets/35192681-f9fe-4702-bc35-c9ad31e303ae" />
-<img width="648" height="339" alt="image" src="https://github.com/user-attachments/assets/c2c805b8-815a-4c13-b356-0c4b69b656a1" />
+<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/35192681-f9fe-4702-bc35-c9ad31e303ae" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c2c805b8-815a-4c13-b356-0c4b69b656a1" />
 
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
